@@ -22,6 +22,11 @@ For the application you will need the following on the server-side (where the no
 * avisynth
 * mongodb
 
+Run
+------------
+npm install
+sudo nodejs index.js
+
 
 License
 -------
