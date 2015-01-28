@@ -24,6 +24,8 @@ For the application you will need the following on the server-side (where the no
 
 Run
 ------------
+mkdir public/projects
+
 npm install
 
 sudo nodejs index.js
